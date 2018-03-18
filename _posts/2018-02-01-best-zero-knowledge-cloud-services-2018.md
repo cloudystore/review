@@ -1,6 +1,8 @@
 ---
 title: Best Zero-Knowledge Cloud Services 2018
 excerpt: Headed by what may actually be the overall best cloud storage service, this list will help keep your private affairs exactly that
+categories:
+ - Articles
 ---
 When it comes to cloud security for file hosting, private, end-to-end encryption is kind of the gold standard. While actually a hijacked term in cryptography, today it’s common to call this this type of encryption “zero-knowledge.”
 

@@ -1,7 +1,8 @@
 ---
-title:
-xexcerpt:
+title: pCloud Review Updated 2018
+excerpt: A secure cloud storage provider that offers 10GB free with optional private encryption, we recommend pCloud to anyone that needs security and ease of use.
 permalink: /pcloud
+last_modified_at: 2018-03-04
 ---
 Welcome to our pCloud review, where we’ll be looking at some of the upsides to choosing this secure cloud storage provider. In business only since 2013, pCloud has benefited from the successes and failures of the competition, an advantage it’s used to attract over two million clients, including big names like BMW, Coca-Cola, Uber and Twitter.
 

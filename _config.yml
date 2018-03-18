@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Cloudy Storage
 email:
-description: If you don't yet have a service for storing and syncing your data in the cloud, you should seriously consider one. Which you choose depends on the kinds of files you store, how much security you need, whether you plan to collaborate with other people, and which devices you use to edit and access your files. It may also depend on your comfort level with computers in general. Some services are extremely user-friendly, while others offer advanced customization for more experienced technophiles.
+description: Another Cloud Storage Review. Complete, Accurate, Updated
 baseurl: 
 url: https://storage.knoacc.org
 twitter_username: knoacc

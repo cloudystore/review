@@ -12,13 +12,15 @@ On the other hand, while it certainly falls far short of our best cloud storage 
 To try MediaFire yourself, visit MediaFire for 10GB of free storage, with the opportunity to earn up to 50GB extra by referring friends and completing other tasks. Otherwise, read on as we review MediaFire’s highs and lows
 
 ### Strengths & Weaknesses
+
 | Strengths: | Weaknesses: |
+|---:|:---|
 | 10GB free plan | No desktop apps |
 | Very affordable | No folder uploading |
 | Fast upload speeds | Limited feature set |
 | Follow collaborative files | No versioning |
 | Decent 20GB file-size limit | Deletes data when inactive |
-|  | Free version has ads |
+| - | Free version has ads |
 
 In general, MediaFire isn’t a very feature-rich storage solution, but it still provides affordable, high-volume storage for mobile and desktop users who don’t need frequent file access. The tradeoffs may be worth the low price to some users.
 
@@ -44,11 +46,12 @@ If you need to upload very large files, you might also run into problems. Althou
 MediaFire doesn’t offer an office suite like OneDrive and Google Drive do and doesn’t have any application integrations with third-party services, so it isn’t the best cloud storage platform for facilitating collaborations. It does, however, have a built-in text editor in beta for those who need to do some quick online editing.
 
 ### Pricing 87% – Very Good
+
 If the 10GB of cloud storage you get for free isn’t enough, MediaFire has one subscription plan for personal users, which is called “Pro.” You can go month-to-month or sign up for a year in advance for a 25 percent discount.
 
-| Plan | Price Plan | Storage | Details	
+| Plan | Price Plan | Storage | Details	|
 | Free | Free - yearly | 10 GB | Can be increased to up to 50GB with referrals.|
-| Pro | $ 5 00 - monthly / $ 45 00 - yearly | 1000 GB |  |
+| Pro | $ 5 00 - monthly / $ 45 00 - yearly | 1000 GB | - |
 | Bussines |  $ 50 00 - monthly / $ 480 00 - yearly | 1000 GB | Storage up to 100TB. Includes 100 user accounts.|
 
 Pricing for MediaFire is competitive, normally. At the time of this writing, the service is also offering an additional 50 percent discount, visit MediaFire for more details.

@@ -8,7 +8,7 @@ When it comes to cloud security for file hosting, private, end-to-end encryption
 
 Zero-knowledge encryption means only you have control of your cloud encryption keys, so only you can ever decrypt your files into plain text. That means no sketchy government surveillance, no using your private photos for targeted marketing and less chance of a breach compromising your identity.
 
-{% include adsense_top %}
+{% include adsense_top.html %}
 
 However, while any zero knowledge is good, some implementations are better than others. During this roundup, we’ll unveil our picks for the best zero-knowledge cloud services available today. Headed by what may actually be the overall best cloud storage service, Sync.com, this list will help keep your private affairs exactly that.  
 

@@ -39,6 +39,13 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-remote-theme
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
 
 author:
   name   : "Cloudy Store"
@@ -46,6 +53,11 @@ author:
   bio    : "My awesome biography constrained to a sentence or two goes here."
   email  : # optional
   uri    : "https://www.knoacc.org"
+  
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -61,6 +73,13 @@ author:
 include:
   - .htaccess
   - _pages
+  
+# HTML Compression
+# - http://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
 
 defaults:
   # _posts

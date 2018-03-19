@@ -42,7 +42,7 @@ plugins:
 
 author:
   name   : "Cloudy Store"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "https://i0.wp.com/blogs.worldbank.org/files/ic4d/01cloudy-t9953.jpg?resize=120,90"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   email  : # optional
   uri    : "https://www.knoacc.org"

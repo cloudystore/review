@@ -3,8 +3,9 @@ title: What Exactly is Zero-Knowledge in The Cloud and How Does it Work?
 excerpt: Zero-knowledge in this case means that no one besides you has the keys to your data, not even the service you’re storing your files with.
 categories:
  - Articles
-sidebar: 
- - foo
+sidebar:
+ title: Cloud Review
+ nav: foo
 ---
 For many people, the biggest risk when using any of our best cloud storage and backup services is security: how do you know that your files will be safe? What happens when the authorities show up to your service’s offices with a warrant? Though these questions may not be a priority for everyone, Cloudwards.net does have a simple answer: use a zero-knowledge cloud service.
 

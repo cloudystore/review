@@ -9,11 +9,11 @@ In case you haven’t heard, Google Drive has a few fans: 800 million active use
 
 When it comes to productivity, many of the best cloud storage services skew towards falling short. Well, that’s usually the case if you’re not considering a more business-oriented cloud storage option like those mentioned in our best EFSS guide. Google Drive is an outlier: it’s a cloud storage tool aimed at home users that packs an arsenal of features that help you get work done.
 
-Google Docs, an expansive third-party app library, collaboration features and great support are among the positive checkmarks we’ll discuss in this Google Drive review. You also get 15GB of free storage, which for many users will be plenty of space (others may want to check our article on the best free cloud storage providers).
+[Google Docs](//docs.google.com), an expansive third-party app library, collaboration features and great support are among the positive checkmarks we’ll discuss in this Google Drive review. You also get 15GB of free storage, which for many users will be plenty of space (others may want to check our article on the best free cloud storage providers).
 
 We’ll also point out a few areas that those concerned about file security will want to be aware of. These include no passwords for file sharing, Google marketing practices and no native option for private encryption. If you do find those reasons compelling, don’t forget to check out our other cloud storage reviews for some Google Drive alternatives.
 
-Also, Google Drive can now backup any folder on your computer. While that’s useful, it doesn’t come with the features like backup scheduling or block-level backup that you’ll find standard with the best online backup services. Meaning, we can’t advocate for Google Drive to replace your Backblaze (read our Backblaze review) account just yet.
+Also, [Google Drive](//drive.google.com) can now backup any folder on your computer. While that’s useful, it doesn’t come with the features like backup scheduling or block-level backup that you’ll find standard with the best online backup services. Meaning, we can’t advocate for Google Drive to replace your Backblaze (read our Backblaze review) account just yet.
 
 ### Strengths & Weaknesses
 
@@ -57,6 +57,7 @@ File backup is also an option now, ever since Google revamped its desktop client
 Backup takes place continuously, meaning as changes to files happen those changes get copied to the remote server. It’s handy, but doesn’t provide the ease of use and speed of a dedicated online backup tool. We’ll mark it as a work in progress.
 
 ### Pricing 70% – Decent
+
 Price flexibility isn’t an issue with Google Drive like it is with many cloud storage services. Dropbox, for example, limits home subscribers to a free 2GB account or Dropbox Plus, which gets you 1TB of storage for $9.99.
 
 Google Drive starts you out with a generous 15GB of free cloud storage and has multiple options beyond that, all the way up to 30TB.
@@ -89,7 +90,7 @@ Navigation options along the left let you access your drive file structure, chec
 
 The Google Drive mobile app comes preinstalled on Android and is another convenient way of getting at your files on the go. One of the nice things is that you can edit files directly from the Google Drive app. With other cloud storage tools, you have to download the file first and open it in another app.  
 
-###bFile Sharing & Syncing 65% – Decent
+### File Sharing & Syncing 65% – Decent
 
 Sync relies heavily on a special folder in your file system called a sync folder. Put a file in the folder and it gets sent to the cloud and any other devices connected to your Drive account. This same model is used by most other cloud storage services.
 
@@ -105,8 +106,8 @@ Where Google Drive falls short is with regard to certain features designed to he
 
 While you have a “shared with me folder,” Google Drive doesn’t provide a corresponding “shared by me” folder to see what files you’ve shared with others. That makes it easy to lose track of file links you’ve created. With no link passwords, that could lead to issues with unauthorized access.
 
-Speed
-70% – Decent
+### Speed 70% – Decent
+
 Google Drive works best as a collaboration platform and key to that is file-copying speed. Faster speeds means faster syncing. Overall, we found Google Drive works quickly enough to get things done, though there’s one way it could be faster.
 
 Before we get to that, let’s look at our speed-test results. We performed these tests using a 1GB compressed folder and timing uploads and downloads. These tests were conducted over a WiFi connection with 50/22 Mbps speeds. Here are the results:
@@ -123,6 +124,7 @@ The opportunity for improvement would be to offer block-level file copying like 
 Google Drive does have speed-throttling, which you can use to slow file transfers if sync’s hogging system resources. In most cases, though, that shouldn’t be a problem.
 
 ### Security & Privacy Policy 60% – Fair
+
 For some people, Google Drive will forever be connected to the NSA’s PRISM project. While the NSA states that the project is only used to target terrorist threats and while Google has denied giving the NSA full access to private data, the presence of the technology and potential for greater reach is unnerving, at best.
 
 Google also scans data, both in Gmail and Google Drive, which is mostly used for marketing. From the company’s terms of service:
@@ -160,5 +162,8 @@ Large corporations, even those founded with certain principles in mind (“don�
 We’ve got suggestions for 99 free tools to protect your privacy. However, one of the easiest steps is to store your files in a cloud built around consumer privacy. To that end, we have recommendations for the best zero-knowledge cloud storage options.
 
 Going with an alternate option might save you money, too. While in line with Dropbox, there are better deals to be found. As mentioned earlier, 2TB of cloud storage with Sync.com costs two dollars less than Google Drive’s 1TB account. That means you’ll be saving money and getting more storage. You can still take advantage of Google Docs with a free 15GB account, too.
+
+{% include ad_script.html %}
+{% include drive %}
 
 That’s all we’ve got on Google Drive for now. Be sure and check out our cloud storage reviews for overviews of other options, and don’t forget to leave your comments below. Thanks for reading!

@@ -8,6 +8,8 @@ When it comes to cloud security for file hosting, private, end-to-end encryption
 
 Zero-knowledge encryption means only you have control of your cloud encryption keys, so only you can ever decrypt your files into plain text. That means no sketchy government surveillance, no using your private photos for targeted marketing and less chance of a breach compromising your identity.
 
+{% include adsense_top %}
+
 However, while any zero knowledge is good, some implementations are better than others. During this roundup, we’ll unveil our picks for the best zero-knowledge cloud services available today. Headed by what may actually be the overall best cloud storage service, Sync.com, this list will help keep your private affairs exactly that.  
 
 ## Best Zero-Knowledge Cloud Services of 2018
@@ -20,6 +22,7 @@ Rank | Company | Score	| Price	| Link
 5	 | MEGA  | $ 5.94 PER MONTH 200 GB STORAGE  | Review
 
 ## What Makes the Best Zero-Knowledge Cloud Service
+
 If you’re not quite sure what the difference between managed and private encryption is, we have a complete article on the basics of zero knowledge that will set you right.
 
 We also have an online privacy guide focused on the best practices you can follow to keep you safe on the web, of which zero-knowledge encryption, along with finding a trusty VPN, plays a big part.
@@ -68,17 +71,18 @@ Aside from being almost as secure and more versatile than Sync.com, pCloud is al
 
 Overall, pCloud also has one of the nicer web GUIs we’ve seen, and is one of the few cloud storage services with a client for Linux (see our picks on best cloud storage for Linux).
 
-Pros: | Cons:
----:|:---
-Good value on storage | Zero-knowledge costs extra
-Good for media streaming | No two-factor authentication
-Good for photos | -
+| Pros: | Cons: |
+|---:|:---|
+| Good value on storage | Zero-knowledge costs extra |
+| Good for media streaming | No two-factor authentication |
+| Good for photos | - |
 
 ### SpiderOak ONE
 
 Unlike our first two picks, our third selection isn’t a cloud storage service, its actually an online backup service. We have a full article on the differences between storage and backup, but basically it means that SpiderOak ONE is designed more for disaster recovery than complementing your hard-drive space.
 
- 
+{% include adsense_middle.html %}
+
 However, SpiderOak is one of those services that blurs the line between storage and backup a bit. As you can read about in our SpiderOak ONE review, any files in your SpiderOak backup plan can also be synced and shared.
 
 As an online backup service, SpiderOak ONE is very good, with support for backing up unlimited computers, continuous backup and unlimited file versioning. Zero-knowledge encryption comes included in the subscription price with SpiderOak, although that price is a bit more expensive than some of the alternatives in our best online backup guide.
@@ -89,40 +93,38 @@ SpiderOak ONE takes a more structured approach to file sharing than most cloud s
 
 While more expensive than online backup solutions like Backblaze (read our Backblaze review), SpiderOak is also more versatile thanks to its cloud features. However, that means it can be a bit trickier to use, so have a look at our how-to-use SpiderOak ONE guide if you’re stuck in a web of confusion.
 
-Pros: | Cons:
----:|:---
-Zero-knowledge included | A bit expensive
-Good backup features | More learning curve
-Sync & file sharing included | -
+| Pros: | Cons: |
+|---:|:---|
+| Zero-knowledge included | A bit expensive |
+| Good backup features | More learning curve |
+| Sync & file sharing included | - |
 
 ### Tresorit
 
 There’s no question that Tresorit is one of the most secure cloud storage services available. Whether Tresorit is actually better for privacy than Sync.com, you can read about in our Sync.com vs Tresorit comparison. Zero-knowledge encryption is the key feature of Tresorit security.
 
- 
 Not only is it included by default, zero-knowledge encryption is extended to shared files. That fact, along with password protection, expiry dates and download limits for file links at least puts Tresorit alongside Sync.com when it comes to secure file sharing.
 
 Two-factor authentication is also an option, unlike with pCloud and SpiderOak ONE.
 
 What hurts Tresorit on this list, and keeps it from vying for the top spot, is that it’s much more expensive than Sync.com, pCloud and even SpiderOak. You can read about its unfortunately high cost of service in our complete Tresorit review.
 
-#### Other Reasons Why We Like Tresorit 
+#### Other Reasons Why We Like Tresorit
+
 Aside from being really secure, about the only thing we can say on Tresorit’s behalf is that at least has a Linux client, which puts it in rare company. While Tresorit is quite a bit more expensive than pCloud, we could easily argue that it’s the most privacy-focused cloud storage tool for Linux.  
 
 Sadly, to figure that out for yourself, there’s not even a free Tresorit plan like you get with just about every other cloud provider. The best you can do is try the service out with a 14-day free trial before committing.  
 
-Pros: | Cons:
-
-Zero-knowledge file shares | Expensive
-Two-factor authentication | No free offer
-Linux client | No file previews
+| Pros: | Cons: |
+|---:|:---|
+| Zero-knowledge file shares | Expensive |
+| Two-factor authentication | No free offer |
+| Linux client | No file previews |
 
 ### MEGA
 
 MEGA’s inclusion in this list is more an indication of just how small the fraternity of zero-knowledge cloud services is rather than serious recommendation. MEGA’s got too many blemishes for that, although 50GB of free cloud storage might encourage a pretty big blindspot.
 
- 
-Mega
 Zero-knowledge encryption is free, too, and extends to file sharing. The actual file-sharing process with MEGA, however, feels a bit clunkier than what you’ll get with most other cloud storage services. We have screenshots in our MEGA review.
 
 MEGA also doesn’t offer any file versioning, which is rare. We’ve had some problems syncing large files, too, though smaller files copy just fine. Finally, if you ever want more than 50GB of storage, MEGA becomes expensive
@@ -131,13 +133,14 @@ MEGA also doesn’t offer any file versioning, which is rare. We’ve had some p
 
 As with Tresorit, there’s not much more to say. We could talk some more about why we don’t like MEGA. Or, just read this article about why Sync is so much better than MEGA.
 
-Pros: | Cons:
-
-Free 50GB of storage | No two-factor authentication
-Zero-knowledge file shares | No file versioning
-- | Sync problems
+| Pros: | Cons: |
+|---:|:---|
+| Free 50GB of storage | No two-factor authentication |
+| Zero-knowledge file shares | No file versioning |
+| - | Sync problems |
 
 ## Conclusion
+
 Zero-knowledge security almost always means the service that includes it is probably going to be more secure than Dropbox. Whether or not they’re actually capable Dropbox alternatives depends on what more they do, though.
 
 While we like Sync.com because of its all-around great security and its value, those looking for a bit more flexibility might be better off with pCloud or SpiderOak ONE. If you’re looking for the most secure cloud storage for Linux, however, that crown might go to Tresorit over pCloud, and certainly over MEGA.

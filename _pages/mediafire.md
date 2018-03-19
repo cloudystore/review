@@ -2,7 +2,7 @@
 layout: single_ad
 title: MediaFire Review
 excerpt: A decent service with some sharp edges, MediaFire offers limited functionality at a low price.
-author: By Brian Law 
+permalink: /mediafire
 last_pdated_at: 2017-11-24
 ---
 It’s hard what to make of cloud storage provider MediaFire: on the one hand it lacks desktop syncing and versioning capabilities and it doesn’t publicize what, if any, security measures are in place to protect users’ files.

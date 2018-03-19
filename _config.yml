@@ -98,5 +98,6 @@ defaults:
       type: pages
     values:
       layout: single_ad
+      toc: true
       ad_top: true
       ad_bottom: true

@@ -19,7 +19,7 @@ description: Another Cloud Storage Review. Complete, Accurate, Updated
 baseurl: /
 url: https://storage.knoacc.org
 twitter_username: knoacc
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: default
 
 # Build settings
 markdown: kramdown

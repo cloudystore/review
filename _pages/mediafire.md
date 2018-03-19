@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: single_ad
 title: MediaFire Review
 excerpt: A decent service with some sharp edges, MediaFire offers limited functionality at a low price.
 author: By Brian Law 
@@ -11,26 +11,20 @@ On the other hand, while it certainly falls far short of our best cloud storage 
 
 To try MediaFire yourself, visit MediaFire for 10GB of free storage, with the opportunity to earn up to 50GB extra by referring friends and completing other tasks. Otherwise, read on as we review MediaFire’s highs and lows
 
-Strengths & Weaknesses
-Strengths:
-10GB free plan
-Very affordable
-Fast upload speeds
-Follow collaborative files
-Decent 20GB file-size limit
-Weaknesses:
-No desktop apps
-No folder uploading
-Limited feature set
-No versioning
-Deletes data when inactive
-Free version has ads
+### Strengths & Weaknesses
+| Strengths: | Weaknesses: |
+| 10GB free plan | No desktop apps |
+| Very affordable | No folder uploading |
+| Fast upload speeds | Limited feature set |
+| Follow collaborative files | No versioning |
+| Decent 20GB file-size limit | Deletes data when inactive |
+|  | Free version has ads |
+
 In general, MediaFire isn’t a very feature-rich storage solution, but it still provides affordable, high-volume storage for mobile and desktop users who don’t need frequent file access. The tradeoffs may be worth the low price to some users.
 
 Just be cautious, as MediaFire doesn’t indefinitely store files. You’ll need to access your files in some capacity at least once a year to guarantee retention.
 
-Features
-60% – Fair
+### Features 60% – Fair
 MediaFire once had good cross-platform support, but then got rid of most clients. The only apps available are for iOS and Android and, unlike most cloud storage services, desktop clients for Windows and Mac aren’t available. You have to upload and access files using a browser interface.
 
 However, if the lack of desktop support isn’t a deal breaker for you, MediaFire offers plenty of space at very competitive rates. Anybody who needs to free up space on their computer by storing files long term could definitely benefit from the service’s affordable pricing. Also, the web interface provides surprisingly fast upload speeds.
@@ -41,18 +35,15 @@ The iOS and Android apps are straightforward and automatically sync photos; you 
 
 MediaFire also offers a “power upload” option, which effectively doubles the app’s upload speed. As it consumes more battery power in this mode, it’s best to plug your phone in before toggling it, but that’s a small price to pay for such a speed increase.
 
- 
 By upgrading to MediaFire Pro, you get an enhanced feature set in addition to a storage increase of up to 1TB. These features include the ability to create one-time links to share files, upload files from other websites and also gives access to priority support.
 
- 
 However, non-mobile users will find that many features found in other storage solutions are simply missing, including file versioning. The only option to recover files with MediaFire is pulling them out of the trash after you’ve deleted them.
 
 If you need to upload very large files, you might also run into problems. Although the 20GB file size limit is larger than what you can upload with some services (as you can read in our OneDrive review, that service has a 10GB limit), it still pales in comparison to Sync.com, which maxes out only once you’ve hit your storage limit.
 
 MediaFire doesn’t offer an office suite like OneDrive and Google Drive do and doesn’t have any application integrations with third-party services, so it isn’t the best cloud storage platform for facilitating collaborations. It does, however, have a built-in text editor in beta for those who need to do some quick online editing.
 
-Pricing
-87% – Very Good
+### Pricing 87% – Very Good
 If the 10GB of cloud storage you get for free isn’t enough, MediaFire has one subscription plan for personal users, which is called “Pro.” You can go month-to-month or sign up for a year in advance for a 25 percent discount.
 
 | Plan | Price Plan | Storage | Details	
@@ -130,5 +121,7 @@ There’s no doubt that for MediaFire’s low price, you’ll be making some com
 To keep your files, you need to log into MediaFire once a year. You aren’t guaranteed complete security of your files as the privacy policy is quite unclear and MediaFire doesn’t even outline what encryption protocols (if any) it has in place.
 
 Without versioning, collaborations become too risky. However, MediaFire does still have an enticing price tag, especially if you catch it on sale. If you’re primarily interested in photo backup for your phone or need to offload a large amount of data to save space on your computer, MediaFire may be right for you.
+
+{% include adsense_middle.html%}
 
 That’s it for our MediaFire review: are you a fan or a skeptic? Let us know in the comments below and thank you for reading.

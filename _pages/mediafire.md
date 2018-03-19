@@ -1,6 +1,6 @@
 ---
 layout: single_ad
-title: MediaFire Review
+title: MediaFire Cloud Storage Review
 excerpt: A decent service with some sharp edges, MediaFire offers limited functionality at a low price.
 permalink: /mediafire
 last_pdated_at: 2017-11-24

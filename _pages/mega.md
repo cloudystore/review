@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: single_ad
 title: MEGA Review Update 2018
 excerpt: MEGA Cloud is a good solution if free storage is all you want. Great security features. Decent usability and speed, but minor bugs with file sharing.
 permalink: /mega

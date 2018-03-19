@@ -14,12 +14,13 @@ However, while any zero knowledge is good, some implementations are better than 
 
 ## Best Zero-Knowledge Cloud Services of 2018
 
-Rank | Company | Score	| Price	| Link 
-1	Winner | Sync.com | $ 4.08 PER MONTH 500 GBSTORAGE | Review
-2	 | pCloud | $ 4.99 PER MONTH 500 GB STORAGE | Review
-3	 | SpiderOak ONE | $ 5.00 PER MONTH 100 GB STORAGE | Review
-4	 | Tresorit  | $ 12.50 PER MONTH 100 GB STORAGE | Review
-5	 | MEGA  | $ 5.94 PER MONTH 200 GB STORAGE  | Review
+| Rank | Company | Score	| Price	| Storage | Link |
+|---|---|---|---|---|
+| #1	Winner | Sync.com | $ 4.08 PER MONTH | 500 GBSTORAGE | [Review](/sync) |
+| #2	 | pCloud | $ 4.99 PER MONTH | 500 GB STORAGE | [Review](/pcloud) |
+| #3	 | SpiderOak ONE | $ 5.00 PER MONTH | 100 GB STORAGE | [Review](/spideroak) |
+| #4	 | Tresorit  | $ 12.50 PER MONTH | 100 GB STORAGE | [Review](/tresorit) |
+| #5	 | MEGA  | $ 5.94 PER MONTH | 200 GB STORAGE  | [Review](/mega) |
 
 ## What Makes the Best Zero-Knowledge Cloud Service
 
@@ -37,7 +38,7 @@ Now that the explanations are out of the way, let’s get to the important stuff
 
 ### Best Zero Knowledge Cloud Service: Sync.com
 
-Sync.com has been one of our favorite cloud storage services for years now, and that’s an opinion largely propelled by the service’s unmatched approach to security.   First of all, you’re not charged extra for zero-knowledge encryption like your are with our second pick on this list, pCloud.
+[Sync.com](//Sync.com) has been one of our favorite cloud storage services for years now, and that’s an opinion largely propelled by the service’s unmatched approach to security.   First of all, you’re not charged extra for zero-knowledge encryption like your are with our second pick on this list, pCloud.
 
  Share a file with Sync.com
 On top of that, Sync.com is one of the few cloud storage services to maintain zero-knowledge encryption even for shared files.
@@ -49,17 +50,17 @@ It’s about as ironclad as cloud storage gets, with maybe only Tresorit coming 
 Other Reasons Why We Like Sync.com
 On top of being the most secure cloud storage solution we’ve ever used, Sync.com also provides some of the best value. You can get a free 5GB account and add to that with an unlimited referral program, or you can just secure 2TB of space for about $8 a month. That’s easily one of the best deals in cloud storage.
 
-Pros: | Cons:
----:|:---
-2TB of storage for cheap | No file previews
-Very secure file sharing | No media streaming
-Zero-knowledge included | No Linux
+| Pros: | Cons: |
+|---:|:---|
+| 2TB of storage for cheap | No file previews |
+| Very secure file sharing | No media streaming |
+| Zero-knowledge included | No Linux |
 
 ### pCloud
+
 Sync.com and our second-place finisher, pCloud, have been playing tug-of-war with our heartstrings for a while now. You can read our latest thoughts on that subject in our Sync.com vs pCloud head-to-head article.
 
- 
-We ranked pCloud second on this list mostly because zero-knowledge encryption costs extra with pCloud. You’ll need to purchase pCloud Crypto, which right now goes for $4.99 a month, though you’ll get a 20 percent discount paying a year in advance.
+We ranked [pCloud](//pcloud.com) second on this list mostly because zero-knowledge encryption costs extra with pCloud. You’ll need to purchase pCloud Crypto, which right now goes for $4.99 a month, though you’ll get a 20 percent discount paying a year in advance.
 
 On top of that, files protected with pCloud Crypto can’t be shared, so it’s not quite as flexible as Sync.com. Files have to be placed in a separate Crypto folder, which is separate from the regular pCloud sync folder.
 
@@ -127,7 +128,7 @@ MEGA’s inclusion in this list is more an indication of just how small the frat
 
 Zero-knowledge encryption is free, too, and extends to file sharing. The actual file-sharing process with MEGA, however, feels a bit clunkier than what you’ll get with most other cloud storage services. We have screenshots in our MEGA review.
 
-MEGA also doesn’t offer any file versioning, which is rare. We’ve had some problems syncing large files, too, though smaller files copy just fine. Finally, if you ever want more than 50GB of storage, MEGA becomes expensive
+[MEGA](//mega.nz) also doesn’t offer any file versioning, which is rare. We’ve had some problems syncing large files, too, though smaller files copy just fine. Finally, if you ever want more than 50GB of storage, MEGA becomes expensive
 
 #### Other Reasons Why We Like MEGA
 

@@ -14,22 +14,22 @@ If you think you’d prefer a different service, Check out our comparison of bes
 
 ### Strengths & Weaknesses
 
-Pros: | Cons:
-:---:|:---:
-Free 10GB storage | File encryption is a paid add-on service
-Affordable plans | No FTP access
-Zero-knowledge encryption | 
-Perfect file sync | 
-Easy to use | 
-360-day versioning add-on | 
-Good privacy policy | 
-Fair terms & conditions | 
-Good customer service | 
-Based in Switzerland | 
-No file-size limits | 
-File type filtering for selective backup | 
-Flexible payment options | 
-Lifetime plans | 
+| Pros: | Cons: |
+|---:|---:|
+| Free 10GB storage | File encryption is a paid add-on service |
+| Affordable plans | No FTP access |
+| Zero-knowledge encryption |  |
+| Perfect file sync |  |
+| Easy to use |  |
+| 360-day versioning add-on |  |
+| Good privacy policy |  |
+| Fair terms & conditions |  |
+| Good customer service |  |
+| Based in Switzerland |  |
+| No file-size limits |  |
+| File type filtering for selective backup |  |
+| Flexible payment options |  |
+| Lifetime plans |  |
 
 While we list having to pay for zero-knowledge encryption as a weakness since competitors like Sync.com and SpiderOak provide it for free, that’s just one way of looking at things. For those that aren’t interested in this feature, the added cost savings will be a benefit. Also, even paying for this feature, pCloud still represents excellent value.
 
@@ -118,6 +118,7 @@ You can set expiry dates for shared links and password protect them. These secur
 If you are using the zero-knowledge encryption add-on, you’ll only be able to share files that have not been encrypted with it.
 
 ### Speed: 85% – Very Good
+
 Speed is a contentious issue with pCloud. There seems to be a lot of factors that can affect the speed of uploads and downloads.
 
 pCloud’s own test, which you can view on YouTube, declares that files can be uploaded to pCloud 500 percent faster than to Dropbox. If that is true, we were unable to replicate the conditions that would allow it, because while pCloud performed favorably in comparison with Dropbox, it was nowhere near 500 percent faster.
@@ -131,6 +132,7 @@ During our upload tests, the connection speed varied by 400 percent from one mom
 Connecting to pCloud doesn’t seem to provide a very stable connection speed, but it does seem to hit higher peak connection speeds more often than the average service.
 
 ### Security & Privacy: 90% – Excellent
+
 The security provided by pCloud seems to be very good. There have not been any known major attacks upon the service to date, and there are no known security leaks.
 
 If you have purchased the Crypto add-on, your files are protected by zero-knowledge encryption, meaning only you can decrypt your content. Without Crypto, pCloud retains control of your encryption key.

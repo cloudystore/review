@@ -1,4 +1,5 @@
 ---
+layout: single
 title: Google Drive Review
 excerpt: Google Drive is probably one of the best cloud collaboration tools out there, but is lacking when it comes to syncing features, security and backup options.
 permalink: /drive

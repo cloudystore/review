@@ -14,17 +14,19 @@ However, while any zero knowledge is good, some implementations are better than 
 
 ## Best Zero-Knowledge Cloud Services of 2018
 
-| Rank | Company | Score	| Price	| Storage | Link |
+| Rank | Company | Price	| Storage | Link |
 |---|---|---|---|---|
-| #1	Winner | Sync.com | $ 4.08 PER MONTH | 500 GBSTORAGE | [Review](/sync) |
-| #2	 | pCloud | $ 4.99 PER MONTH | 500 GB STORAGE | [Review](/pcloud) |
-| #3	 | SpiderOak ONE | $ 5.00 PER MONTH | 100 GB STORAGE | [Review](/spideroak) |
-| #4	 | Tresorit  | $ 12.50 PER MONTH | 100 GB STORAGE | [Review](/tresorit) |
-| #5	 | MEGA  | $ 5.94 PER MONTH | 200 GB STORAGE  | [Review](/mega) |
+| 1	Winner | **Sync.com** | $ 4.08 PER MONTH | 500 GBSTORAGE | [Review](/sync) |
+| 2	| **pCloud** | $ 4.99 PER MONTH | 500 GB STORAGE | [Review](/pcloud) |
+| 3 | **SpiderOak ONE** | $ 5.00 PER MONTH | 100 GB STORAGE | [Review](/spideroak) |
+| 4 | **Tresorit** | $ 12.50 PER MONTH | 100 GB STORAGE | [Review](/tresorit) |
+| 5	| **MEGA** | $ 5.94 PER MONTH | 200 GB STORAGE  | [Review](/mega) |
 
 ## What Makes the Best Zero-Knowledge Cloud Service
 
 If you’re not quite sure what the difference between managed and private encryption is, we have a complete article on the basics of zero knowledge that will set you right.
+
+{% include adsense_middle.html %}
 
 We also have an online privacy guide focused on the best practices you can follow to keep you safe on the web, of which zero-knowledge encryption, along with finding a trusty VPN, plays a big part.
 

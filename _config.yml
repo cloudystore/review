@@ -98,8 +98,6 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
-      sidebar_ad: true
-      read_time: true
-      comments: true
-      share: true
+      layout: single_ad
+      ad_top: true
+      ad_bottom: true

@@ -14,6 +14,8 @@ Though private encryption may not be for the faint of heart, if you do decide to
  
 Though many people don’t realize it, usually if you sign up for a service, any service, they keep a copy of your password somewhere. Though usually it is kept fairly safe, in theory someone can get to it. Though that kind of access is usually reserved for people too high up in the food chain to care about your holiday pics, it does present a risk if the company in question falls victim to cybercriminals or is presented with a warrant by law enforcement officials.
 
+{% innclude adsense_middle.html %}
+
 Providers that use private encryption solve this problem by not storing a copy of your password anywhere. Though the tech behind this can get complicated, what it boils down to is that rather than hand over the password, which is then verified by the service, you hand over the proof that you know the password. Again, the math gets tricky, but in practice it works just like any other provider: you type in your password and you get access.
 
 The upshot of this is that even if a government agent shows up with a warrant, all they will get are encrypted files. While non-private encryption providers have to hand over files and their passwords, zero-knowledge services can’t give away customers’ password because they, well, have zero -knowledge. 

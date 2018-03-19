@@ -10,3 +10,20 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+# foo bar
+foo:
+  - title: "Mediafire"
+    url: /mediafire
+  - title: "Mega"
+    url: /mega
+  - title: "pCloud"
+    url: /drive
+  - title: "Google Drive"
+    url: /drive
+  - title: "Andoid Filehost"
+    url: /afh
+  - title: "ZippyShare"
+    url: /zippy
+  - title: "Upfile Mobi"
+    url: /upfile
+  

@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: single_ad
 title: pCloud Review Updated 2018
 excerpt: A secure cloud storage provider that offers 10GB free with optional private encryption, we recommend pCloud to anyone that needs security and ease of use.
 permalink: /pcloud

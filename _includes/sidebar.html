@@ -1,8 +1,9 @@
 {% if page.author_profile or layout.author_profile or page.sidebar_ad %}
   {% if page.sidebar_ad %}
-  <div style="height:600;width:160" class="sidebar sticky">
+<style>.sidebarsticky{height:600;width:160}</style>
+  <div class="sidebar sticky">
     {% include adsense.html %}
-</div>
+  </div>
   {% endif %}
   <div class="sidebar sticky">
   {% if page.author_profile or layout.author_profile %}{% include author-profile.html %}{% endif %}

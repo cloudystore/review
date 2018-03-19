@@ -14,11 +14,11 @@ However, while any zero knowledge is good, some implementations are better than 
 
 | Rank | Company | Price	| Storage | Link |
 |---|---|---|---|---|
-| 1	Winner | **Sync.com** | $ 4.08 PER MONTH | 500 GBSTORAGE | [Review](/sync) |
-| 2	| **pCloud** | $ 4.99 PER MONTH | 500 GB STORAGE | [Review](/pcloud) |
-| 3 | **SpiderOak ONE** | $ 5.00 PER MONTH | 100 GB STORAGE | [Review](/spideroak) |
-| 4 | **Tresorit** | $ 12.50 PER MONTH | 100 GB STORAGE | [Review](/tresorit) |
-| 5	| **MEGA** | $ 5.94 PER MONTH | 200 GB STORAGE  | [Review](/mega) |
+| 1	Winner | **[Sync.com](#best-zero-knowledge-cloud-service-synccom)** | $ 4.08 PER MONTH | 500 GBSTORAGE | [Review](/sync) |
+| 2	| **[pCloud](#pcloud)** | $ 4.99 PER MONTH | 500 GB STORAGE | [Review](/pcloud) |
+| 3 | **[SpiderOak ONE](#spideroak-one)** | $ 5.00 PER MONTH | 100 GB STORAGE | [Review](/spideroak) |
+| 4 | **[Tresorit](#tresorit)** | $ 12.50 PER MONTH | 100 GB STORAGE | [Review](/tresorit) |
+| 5	| **[MEGA](#mega)** | $ 5.94 PER MONTH | 200 GB STORAGE  | [Review](/mega) |
 
 ## What Makes the Best Zero-Knowledge Cloud Service
 
